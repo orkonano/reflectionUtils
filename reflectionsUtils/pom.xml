@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Reflection Utils</name>
   <properties>
-		<java.version>7</java.version>
+		<java.version>6</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
